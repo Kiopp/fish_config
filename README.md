@@ -6,7 +6,7 @@ Personal configurations for the fish shell to be integrated with the ml4w dotfil
 * fastfetch on new terminal session
 * Some of the shell aliases (only the ones I use)
 ### Personal configuration
-* Override the cd command to also run ls
+* Override the cd command to also list the target directory
 ## Install instructions
 1. Clone repository
 2. Rename repository directory to "fish"
