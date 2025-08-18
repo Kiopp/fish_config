@@ -12,7 +12,10 @@ Personal configurations for the fish shell to be integrated with the ml4w dotfil
 2. Rename repository directory to "fish"
 3. (Optional) Backup old fish config
 4. Remove old config. Remove the entire directory, usually located at ~/.config/fish
-5. Create symbolic link
+```
+rm -r ~/.config/fish
+```
+6. Create symbolic link
 ```
 ln -s /path/to/repo/fish ~/.config
 ```
