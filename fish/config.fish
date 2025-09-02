@@ -18,6 +18,7 @@ alias lt='eza -a --tree --level=1 --icons=always'
 alias shutdown='systemctl poweroff'
 alias m='micro'
 alias c='clear'
+alias cdi='zi'
 
 # -----------------------------------------------------
 # Git aliases
