@@ -5,6 +5,7 @@ Personal configurations for the fish shell to be integrated with the ml4w dotfil
 * oh-my-posh prompt theme
 * fastfetch on new terminal session
 * Some of the shell aliases (only the ones I use)
+* eza instead of ls
 ### Personal configuration
 * Override the cd command to also list the target directory
 * zoxide support
