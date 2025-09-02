@@ -12,6 +12,7 @@ Personal configurations for the fish shell to be integrated with the ml4w dotfil
 * oh-my-posh
 * fastfetch
 * zoxide
+* fzf
 * git
 * micro
 * eza
