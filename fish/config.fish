@@ -27,3 +27,8 @@ alias ga="git add"
 alias gc="git commit -m"
 alias gp="git push"
 alias gpl="git pull"
+
+# -----------------------------------------------------
+# Setup zoxide
+# -----------------------------------------------------
+zoxide init fish | source
