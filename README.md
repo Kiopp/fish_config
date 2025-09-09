@@ -10,6 +10,7 @@ Personal configurations for the fish shell to be integrated with the ml4w dotfil
 * Override the cd command to also list the target directory
 * zoxide support
 ## Dependencies
+* fish
 * oh-my-posh
 * fastfetch
 * zoxide
@@ -19,14 +20,6 @@ Personal configurations for the fish shell to be integrated with the ml4w dotfil
 * eza
 ## Install instructions
 1. Clone repository
-2. Rename repository directory to "fish"
-3. (Optional) Backup old fish config
-4. Remove old config. Remove the entire directory, usually located at ~/.config/fish
-```
-rm -r ~/.config/fish
-```
-6. Create symbolic link
-```
-ln -s /path/to/repo/fish ~/.config
-```
-6. Restart terminal session and enjoy :smile:
+2. Install dependencies
+3. Run setup.fish
+	- !WARNING! setup.fish will remove all previous fish configurations and create a symbolic link to the new config.
