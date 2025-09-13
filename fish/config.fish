@@ -19,6 +19,7 @@ alias shutdown='systemctl poweroff'
 alias m='micro'
 alias c='clear'
 alias cdi='zi'
+alias py='python'
 
 # -----------------------------------------------------
 # Git aliases
