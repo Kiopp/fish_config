@@ -34,3 +34,9 @@ alias gpl="git pull"
 # Setup zoxide
 # -----------------------------------------------------
 zoxide init fish | source
+
+# -----------------------------------------------------
+# Environment variables
+# -----------------------------------------------------
+
+fish_add_path /home/jesper/.spicetify
