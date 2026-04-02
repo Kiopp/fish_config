@@ -7,6 +7,7 @@ Personal configurations for the fish shell designed to be integrated with my own
 * eza instead of ls
 * Override the cd command to also list the target directory
 * zoxide support
+* Functions for enabling/disabling a wireguard connection(wg0 by default)
 ## Dependencies
 * fish
 * oh-my-posh
